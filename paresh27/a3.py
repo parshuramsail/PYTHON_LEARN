@@ -1,0 +1,4 @@
+#USE A LIST COMPREHENSION TO CREATE A LIST OF ALL NUMBERS BETWEEN 1 TO 50 THAT ARE DIVISIBLE BY 3.
+for num in range(0,51):
+    if num%3==0:
+        print(num)

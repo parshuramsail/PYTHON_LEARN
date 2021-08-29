@@ -1,0 +1,5 @@
+print("enter first number")
+n1=input()
+print("enter second number")
+n2=input()
+print("the output is",int(n1)+int(n2))
